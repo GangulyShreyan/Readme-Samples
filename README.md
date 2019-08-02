@@ -108,7 +108,7 @@ Escape special characters using ' \ '  \*\_ etc.
 ---
 
 ##ADDING IMAGE:
-![alt text](https://github.com/GangulyShreyan?tab=overview&from=2019-07-01&to=2019-07-31)
+![ALT TEXT](https://github.com/GangulyShreyan/Readme-Samples/blob/master/HelloWorld.png)
 
 **Version 1.0.0**
 
