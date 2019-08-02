@@ -110,6 +110,8 @@ Escape special characters using ' \ '  \*\_ etc.
 ## ADDING IMAGE:
 ![ALT TEXT](https://github.com/GangulyShreyan/Readme-Samples/blob/master/HelloWorld.png)
 
+---
+
 **Version 1.0.0**
 
 ---
