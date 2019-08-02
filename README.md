@@ -107,12 +107,12 @@ Escape special characters using ' \ '  \*\_ etc.
 
 ---
 
-## ADDING IMAGE:
+# ADDING IMAGE:
 ![ALT TEXT](https://github.com/GangulyShreyan/Readme-Samples/blob/master/HelloWorld.png)
 
 ---
 
-## ADDING VIDEO:
+# ADDING VIDEO:
 [![Deepest Mandelbrot Set Zoom Animation ever ](https://i.ytimg.com/vi/0jGaio87u3A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBebSvOhfnCFkkAtK0ORsXxLk8YNg)](https://www.youtube.com/watch?v=0jGaio87u3A&t=113s "Deepest Mandelbrot Set Zoom Animation ever ")
 
 ##### Click on the thumbnail to watch the video.
